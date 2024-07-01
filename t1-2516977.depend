@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1663091390 source:c:\projeto\t1-2516977\main.c
+	<stdio.h>
+	<float.h>
+	<math.h>
+	"trabalho1.h"
+
+1663090738 c:\projeto\t1-2516977\trabalho1.h
+
+1663090712 source:c:\projeto\t1-2516977\trabalho1.c
+	<stdlib.h>
+	"trabalho1.h"
+
+1665029835 source:c:\users\luxter\desktop\projeto\t1-2516977\main.c
+	<stdio.h>
+	<float.h>
+	<math.h>
+	"trabalho1.h"
+
+1663090738 c:\users\luxter\desktop\projeto\t1-2516977\trabalho1.h
+
+1663090712 source:c:\users\luxter\desktop\projeto\t1-2516977\trabalho1.c
+	<stdlib.h>
+	"trabalho1.h"
+
+1665029381 source:c:\users\luxter\desktop\projeto\t1-2516977\t1-2516977.c
+	"trabalho1.h"
+
+1665176156 source:c:\users\revox\desktop\projeto\t1-2516977\main.c
+	<stdio.h>
+	<float.h>
+	<math.h>
+	"trabalho1.h"
+
+1663090738 c:\users\revox\desktop\projeto\t1-2516977\trabalho1.h
+
+1663090712 source:c:\users\revox\desktop\projeto\t1-2516977\trabalho1.c
+	<stdlib.h>
+	"trabalho1.h"
+
+1665187837 source:c:\users\revox\desktop\projeto\t1-2516977\t1-2516977.c
+	<math.h>
+	"trabalho1.h"
+
